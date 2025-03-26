@@ -2,7 +2,7 @@
 # AutoRegression
 ##################################################
 
-#EXP_NAME=sinpend_kernel2_stride1
+EXP_NAME=sinpend_kernel2_stride1
 #EXP_NAME=sinpend_kernel4_stride2
 #EXP_NAME=sinpend_kernel8_stride4
 
