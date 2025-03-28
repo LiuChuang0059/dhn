@@ -1,0 +1,8 @@
+conda create -n dhn python=3.13
+pip3 install torch torchvision torchaudio
+pip install matplotlib
+pip install tqdm
+pip install absl-py
+pip install ml-collections
+pip install tensorboard
+
